@@ -56,7 +56,7 @@ def test_login():
         
         email_input = driver.find_element(By.ID, "email")
         password_input = driver.find_element(By.ID, "pass")
-        email_input.send_keys("shashak2020csai129@abesit.edu.in")
+        email_input.send_keys("hellozsjvsszj@gmail.com")
         password_input.send_keys("Shahank@2003")  # Incorrect password
         
         login_button = driver.find_element(By.ID, "send2")
