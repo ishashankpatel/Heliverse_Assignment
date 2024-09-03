@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","70984","Test Product Addition and Checkout","","Tue Sep 03 22:40:02 IST 2024","passed","Tue Sep 03 22:41:13 IST 2024","","function_test","",""
+"","43403","Form Validation","","Tue Sep 03 22:39:19 IST 2024","passed","Tue Sep 03 22:40:02 IST 2024","","Form_test","",""
+"","23517","UI Elements","","Tue Sep 03 22:42:12 IST 2024","passed","Tue Sep 03 22:42:35 IST 2024","","ui_test","",""
+"","58686","Login and Error","","Tue Sep 03 22:41:13 IST 2024","passed","Tue Sep 03 22:42:12 IST 2024","","test_login","",""
