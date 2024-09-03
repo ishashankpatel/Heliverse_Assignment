@@ -27,7 +27,7 @@ def test_login():
             EC.presence_of_element_located((By.ID, "email"))
         )
         password_input = driver.find_element(By.ID, "pass")
-        email_input.send_keys("shashank2020csai129@abesit.edu.in")
+        email_input.send_keys("hellozsjvsszj@gmail.com")
         password_input.send_keys("Shashank@2003")
         
         login_button = driver.find_element(By.ID, "send2")
